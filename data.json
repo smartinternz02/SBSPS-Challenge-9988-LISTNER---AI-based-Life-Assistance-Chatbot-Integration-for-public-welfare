@@ -1,0 +1,119 @@
+[
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey", "howdy"],
+      "responses": ["Hi there! How can I support you today?", "Hello! How can I assist you?", "Hey! How can I be of help?"]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": ["how are you?", "how are you doing?"],
+      "responses": ["I'm just a chatbot, but I'm here to listen. How are you feeling today?", "I'm here to listen and support. How are you doing?"]
+    },
+    {
+      "tag": "stress_handling",
+      "patterns": ["how to deal with stress", "tips for handling stress", "coping with stress","stress"],
+      "responses": ["Stress is tough. Remember to take breaks and practice deep breathing. Talk to someone you trust or engage in activities you enjoy.", "To cope with stress, try relaxation exercises and seek support from friends or family."]
+    },
+    {
+      "tag": "anxiety_handling",
+      "patterns": ["what to do when anxious", "tips for managing anxiety", "dealing with anxiety","anxiety"],
+      "responses": ["When feeling anxious, take slow breaths and focus on the present moment. Consider grounding techniques or reach out to a mental health professional.", "Anxiety can be challenging. Try mindfulness exercises or consider talking to a therapist for additional support."]
+    },
+    {
+      "tag": "depression_support",
+      "patterns": ["how to handle sadness", "coping with depression", "dealing with sadness","depression"],
+      "responses": ["Sadness is a natural emotion. Allow yourself to feel it, and talk to someone who can offer support. Engaging in self-care activities might help too.", "When feeling sad, don't hesitate to reach out to friends or family. Consider journaling your thoughts and feelings to process them."]
+    },
+    {
+      "tag": "therapist_suggestion",
+      "patterns": ["should I see a therapist?", "do I need therapy?", "is therapy right for me?","therapy"],
+      "responses": ["If you're struggling and it's affecting your daily life, speaking with a therapist can be beneficial. They can provide valuable support and guidance.", "Seeing a therapist can be a helpful step if you're finding it challenging to cope with your emotions or circumstances."]
+    },
+    {
+      "tag": "helping_someone_depressed",
+      "patterns": ["how to help someone depressed", "supporting a depressed friend", "what to do when a friend is depressed"],
+      "responses": ["Be supportive and empathetic. Encourage them to seek professional help and remind them that they're not alone.", "Let your friend know you're there for them. Encourage them to talk to a mental health professional about their feelings."]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": ["Sorry, I'm not sure I understand. Can you please rephrase?", "I'm still learning. Can you try asking in a different way?"]
+    },
+    {
+      "tag": "healthy_diet",
+      "patterns": ["tips for a healthy diet", "how to eat better", "improve eating habits"],
+      "responses": ["Maintaining a healthy diet is crucial. Focus on balanced meals with fruits, vegetables, whole grains, and lean proteins. Drink plenty of water and limit processed foods and added sugars.", "To improve your eating habits, try meal planning, and opt for nutritious snacks like nuts and yogurt. Remember to enjoy treats in moderation."]
+    },
+    {
+      "tag": "exercise_benefits",
+      "patterns": ["what are the benefits of exercise?", "how does exercise help?", "why should I work out?"],
+      "responses": ["Exercise offers numerous benefits. It improves cardiovascular health, boosts mood, reduces stress, and enhances overall well-being. It's essential to find activities you enjoy to stay motivated.", "Regular exercise can help with weight management, increase energy levels, and promote better sleep. It's an excellent way to take care of your body and mind."]
+},
+    {
+      "tag": "mental_wellness",
+      "patterns": ["how to improve mental well-being", "tips for better mental health", "ways to reduce stress"],
+      "responses": ["Improving mental well-being involves self-care practices, such as mindfulness, meditation, and engaging in hobbies you love. Consider talking to a mental health professional if you need additional support.", "To reduce stress and improve mental health, prioritize relaxation, set boundaries, and seek support from friends or family. Remember, it's okay to ask for help."]
+    },
+    {
+      "tag": "sleep_quality",
+      "patterns": ["how to sleep better", "tips for improved sleep", "how can I get a good night's rest?"],
+      "responses": ["To improve sleep quality, establish a consistent sleep schedule, create a calming bedtime routine, and avoid caffeine and screens before bedtime. Ensure your sleeping environment is comfortable and conducive to rest.", "Getting enough sleep is essential for overall health. Practice good sleep hygiene, such as limiting naps and establishing a relaxing pre-sleep routine."]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": ["Sorry, I'm not sure I understand. Can you please rephrase?", "I'm still learning. Can you try asking in a different way?"]
+    },
+    {
+      "tag": "study_tips",
+      "patterns": ["study tips", "how to study effectively", "study techniques"],
+      "responses": ["To study effectively, create a quiet and organized study space. Use active learning techniques like summarizing information and teaching it to someone else. Take regular breaks and stay consistent with your study schedule.", "To improve your study habits, try using flashcards, practicing past exams, and seeking help from teachers or peers when needed."]
+    },
+    {
+      "tag": "time_management",
+      "patterns": ["time management for students", "how to manage study time", "study schedule"],
+      "responses": ["Time management is crucial for students. Prioritize tasks, set realistic goals, and use tools like calendars or apps to organize your schedule. Remember to allocate time for rest and relaxation.", "To manage your study time effectively, break larger tasks into smaller ones and avoid procrastination. Use time-blocking techniques to allocate specific time slots for studying each subject."]
+    },
+    {
+      "tag": "preparing_exam",
+      "patterns": ["how to prepare for exams", "exam study tips", "test preparation"],
+      "responses": ["When preparing for exams, review class notes, textbooks, and study guides. Practice with past exams and quizzes. Create a study plan and seek help from teachers or tutors for difficult topics.", "To excel in exams, use mnemonic devices to remember key information, and focus on understanding concepts rather than memorization. Get enough rest and avoid cramming before the test."]
+    },
+    {
+      "tag": "choosing_major",
+      "patterns": ["how to choose a major", "deciding on a career path", "selecting a college major"],
+      "responses": ["Choosing a major can be challenging. Reflect on your interests, strengths, and long-term goals. Consider speaking with academic advisors or career counselors for guidance.", "To find the right major, explore different fields, talk to professionals in your areas of interest, and seek internships or shadowing opportunities."]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": ["Sorry, I'm not sure I understand. Can you please rephrase?", "I'm still learning. Can you try asking in a different way?"]
+    },
+    {
+      "tag": "abuse_experiences",
+      "patterns": ["I'm experiencing abuse", "I need help with an abusive situation", "Someone is hurting me"],
+      "responses": ["I'm really sorry to hear that you're going through this. Your safety is essential. Please consider reaching out to a trusted friend, family member, or a professional for support.", "I'm here to listen and support you. Remember, you don't have to face this alone.It's essential to talk to someone you trust about what you're going through."]
+    },
+    {
+      "tag": "seeking_help",
+      "patterns": ["how do I get help?", "where can I find support?", "what should I do in an abusive situation?","help"],
+      "responses": ["Getting help is crucial. You can contact a local helpline or support organization for assistance and guidance. If you're in immediate danger, don't hesitate to call emergency services in your country.", "You deserve help and support. Reach out to a domestic violence hotline or a local shelter to talk to someone who can provide you with resources and assistance."]
+    },
+    {
+      "tag": "reporting_abuse",
+      "patterns": ["how can I report abuse?", "what happens when I report abuse?", "who should I tell about the abuse?"],
+      "responses": ["Reporting abuse is important. If you feel safe doing so, contact your local authorities or law enforcement to report the situation. They can guide you through the process.", "You can report abuse to the appropriate authorities or organizations, such as the police or social services. They are trained to handle such situations and protect your safety."]
+    },
+    {
+      "tag": "support_resources",
+      "patterns": ["are there resources for abuse victims?", "can you provide helpline numbers?", "where can I find support services?","Helpline Numbers"],
+      "responses": ["Yes, there are resources available for abuse victims. Here are some helpline numbers you can contact: [Police-100, Ambulance-108,Fire-101,Emergency-112]. Remember, you are not alone, and there are people who want to help you through this difficult time."]
+    },
+
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": ["Sorry, I'm not sure I understand. Can you please rephrase?", "I'm still learning. Can you try asking in a different way?"]
+    }
+  ]
+
